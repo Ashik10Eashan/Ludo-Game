@@ -7,9 +7,9 @@ int main()
 	int p1,p2,i,j;
 	char pl1[12],pl2[12];
 	clrscr();
-	printf("Enter player name of 1 ===:==");
+	printf("Enter player Name of 1 ==:==");
 	gets(pl1);
-	printf("Enter player name of 2 ===:==");
+	printf("Enter player Name of 2 ==:==");
 	gets(pl2);
 	for(j=0;j<10;i++)
 	{
